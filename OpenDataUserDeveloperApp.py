@@ -1,7 +1,6 @@
 from tkinter import *
 import pandas as pd
 import matplotlib.pyplot as plt; plt.rcdefaults()
-get_ipython().run_line_magic('matplotlib', 'qt')
 
 import numpy as np
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
